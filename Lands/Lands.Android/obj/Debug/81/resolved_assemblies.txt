@@ -8,6 +8,7 @@ C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\asset
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\Lands.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\Mono.Android.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\Newtonsoft.Json.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Core.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Xml.dll

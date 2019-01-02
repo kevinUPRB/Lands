@@ -113,6 +113,7 @@ class MonoPackageManager_Resources {
 		"GalaSoft.MvvmLight.Extras.dll",
 		"GalaSoft.MvvmLight.Platform.dll",
 		"Lands.dll",
+		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Runtime.dll",

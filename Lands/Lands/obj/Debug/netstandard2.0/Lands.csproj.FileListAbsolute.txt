@@ -10,4 +10,5 @@ C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.Ass
 C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.AssemblyInfo.cs
 C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.dll
 C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.pdb
+C:\Users\kevin\source\repos\Lands\Lands\Lands\obj\Debug\netstandard2.0\Views\LandsPage.xaml.g.cs
 C:\Users\kevin\source\repos\Lands\Lands\Lands\obj\Debug\netstandard2.0\XamlC.stamp
