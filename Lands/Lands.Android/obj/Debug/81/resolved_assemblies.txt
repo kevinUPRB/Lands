@@ -1,5 +1,9 @@
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\Lands.Android.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\CommonServiceLocator.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\GalaSoft.MvvmLight.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\GalaSoft.MvvmLight.Extras.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\GalaSoft.MvvmLight.Platform.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\Java.Interop.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\Lands.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\Mono.Android.dll
@@ -42,4 +46,17 @@ C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\asset
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Web.Services.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Runtime.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.ObjectModel.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Diagnostics.Debug.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Reflection.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Linq.Expressions.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Threading.Tasks.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Collections.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Threading.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Linq.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Reflection.Extensions.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Resources.ResourceManager.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.ComponentModel.dll
+C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\System.Globalization.dll
 C:\Users\kevin\source\repos\Lands\Lands\Lands.Android\obj\Debug\81\android\assets\Mono.Security.dll

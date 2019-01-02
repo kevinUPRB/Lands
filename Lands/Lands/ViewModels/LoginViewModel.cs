@@ -5,15 +5,57 @@ using System.Text;
 
 namespace Lands.ViewModels
 {
+	using GalaSoft.MvvmLight.Command;
+	using System.ComponentModel;
 	using System.Windows.Input;
-	public class LoginViewModel
-    {
+	using Xamarin.Forms;
+
+	public class LoginViewModel : BaseViewModel
+	{
+		#region Eventos
+		
+		#endregion
+
+		#region Atributos
+
+		private string email;
+		private bool isEnabled;
+		private bool isRunning;
+		private string password;
+
+		#endregion
+
 		#region Propiedades
 
-		public string Email { get; set; }
-		public string Password { get; set; }
-		public bool IsRunning { get; set; }
-		public bool IsRemembered { get; set; }
+		public string Email
+		{
+			get { return this.email; }
+			set { SetValue(ref this.email, value); }
+		}
+
+		public string Password
+		{
+			get { return this.password; }
+			set { SetValue(ref this.password, value); }
+		}
+
+		public bool IsRunning
+		{
+			get { return this.isRunning; }
+			set { SetValue(ref this.isRunning, value); }
+		}
+
+		public bool IsRemembered
+		{
+			get;
+			set;
+		}
+
+		public bool IsEnabled
+		{
+			get { return this.isEnabled; }
+			set { SetValue(ref this.isEnabled, value); }
+		}
 
 		#endregion
 
@@ -22,13 +64,65 @@ namespace Lands.ViewModels
 		public LoginViewModel()
 		{
 			this.IsRemembered = true;
+			this.IsEnabled = true;
 		}
 
 		#endregion
-
 		#region Comandos
 
-		public ICommand LoginCommand { get; set; }
+		public ICommand LoginCommand
+		{
+			get
+			{
+				return new RelayCommand(Login);
+			}
+		}
+
+
+
+		private async void Login()
+		{
+			if (string.IsNullOrEmpty(this.Email))
+			{
+				await Application.Current.MainPage.DisplayAlert(
+					"Error",
+					"You must enter an email.",
+					"Accept");
+				return;
+			}
+
+			if (string.IsNullOrEmpty(this.Password))
+			{
+				await Application.Current.MainPage.DisplayAlert(
+					"Error",
+					"You must enter an Password.",
+					"Accept");
+				return;
+			}
+
+			this.IsRunning = true;
+			this.IsEnabled = false;
+			if (this.Email != "k@k.com" || this.Password != "1234")
+			{
+				this.IsRunning = false;
+				this.IsEnabled = true;
+				await Application.Current.MainPage.DisplayAlert(
+					"Error",
+					"Email or Password is incorrect.",
+					"Accept");
+				this.Password = string.Empty;
+				return;
+			}
+
+			this.IsRunning = false;
+			this.IsEnabled = true;
+			await Application.Current.MainPage.DisplayAlert(
+					"OK",
+					"Fuck yeaaah!",
+					"Accept");
+			return;
+
+		}
 
 		#endregion
 	}

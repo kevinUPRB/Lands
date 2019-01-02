@@ -8,6 +8,6 @@ C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Views\Log
 C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.csproj.CoreCompileInputs.cache
 C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.AssemblyInfoInputs.cache
 C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.AssemblyInfo.cs
-C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.dll
 C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.pdb
+C:\Users\kevin\source\repos\Lands\Lands\Lands\obj\Debug\netstandard2.0\XamlC.stamp

@@ -61,7 +61,7 @@
                         VerticalOptions="Center"
                         Text="Remember me on this device">
                     </Label>
-                    
+
                     <Switch 
                         HorizontalOptions="End"
                         IsToggled="{Binding IsRemembered, Mode=TwoWay}">
@@ -69,14 +69,14 @@
 
                 </StackLayout>
 
-               
+
 
                 <Label 
                     HorizontalOptions="Center"
                     Text="Forgot your password?"
                     TextColor="Blue"
                     VerticalOptions="CenterAndExpand">
-                    
+
                 </Label>
 
                 <ActivityIndicator 
@@ -89,31 +89,33 @@
                     TranslationY="-30"
                     HorizontalOptions="Center"
                     Orientation="Horizontal">
-                    
+
                     <Button
                         BackgroundColor="Navy"
                         BorderRadius="23"
                         HeightRequest="46"
+                        IsEnabled="{Binding isEnabled, Mode=TwoWay}"
                         Command="{Binding LoginCommand}"
                         Text="Login"
                         TextColor="White">
                     </Button>
-                    
+
                     <Button
                          BackgroundColor="Purple"
                          BorderRadius="23"
                          HeightRequest="46"
-                        HorizontalOptions="FillAndExpand"
+                         HorizontalOptions="FillAndExpand"
+                         IsEnabled="{Binding IsEnabled, Mode=TwoWay}"
                          Text="Register"
                          TextColor="White">
                     </Button>
-                    
+
                 </StackLayout>
-                
+
                 <StackLayout 
                     HorizontalOptions="Center"
                     Orientation="Horizontal">
-                    
+
                     <Image
                         Source="fb_logo"
                         WidthRequest="55">
@@ -128,11 +130,11 @@
                         Source="instagram_logo"
                         WidthRequest="45">
                     </Image>
-                    
+
                 </StackLayout>
-                
+
             </StackLayout>
-            
+
         </ScrollView>
 
     </ContentPage.Content>
