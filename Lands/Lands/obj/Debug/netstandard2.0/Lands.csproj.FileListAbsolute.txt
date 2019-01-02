@@ -1,0 +1,13 @@
+C:\Users\kevin\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.deps.json
+C:\Users\kevin\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.dll
+C:\Users\kevin\source\repos\lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.pdb
+C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.AssemblyInfo.cs
+C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.dll
+C:\Users\kevin\source\repos\lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.pdb
